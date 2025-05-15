@@ -3,7 +3,7 @@
  * Plugin Name: WC Enviame Shipping
  * Description: Método de envío de Enviame para WooCommerce
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Nexbu
  * Text Domain: wc-enviame-shipping
  * Domain Path: /languages
  */
